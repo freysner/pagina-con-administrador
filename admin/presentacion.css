@@ -1,0 +1,15 @@
+body{margin:0;background-color:white;font-family:sans-serif,arial;font-size:11pt;}
+#menu a{padding:0 25px 0 25px;background-color:#a7c0dc;color:#fff;padding-left:10px;font-weight: bold;
+text-decoration:none;}
+#menu a:hover{color:#000;}
+img{border:0px;padding:5px;}
+#submenu a{padding:0 25px 0 25px;background-color:#f3f3f3;}
+table{border-collapse:collapse;}
+td{font-size:10pt;border:1px #a7c0dc solid;padding:4px;}
+p{font-size:10pt;padding:0 10px;}
+input{margin-bottom:6px;}
+select{margin-bottom:6px;}
+.Estilo1 {color: #FF0000}
+#listado_principal{text-align:center;padding-left:10px;}
+/*table.formulario td {border:0;padding:5px;}
+td.formulario_etiqueta{color:#2166A7;vertical-align:bottom;}*/
